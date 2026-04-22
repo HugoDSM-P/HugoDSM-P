@@ -11,4 +11,6 @@ My tech stack is:
 - Terraform
 - Python
 
-Currently doing a project evolving my Final Degree Project and bringing some serious DevOps mentality.
+Currently learning Python from zero to have skills in automation scripts.
+
+After the Python learning i will evolve my final degree project and bring a DevOps mentality.
