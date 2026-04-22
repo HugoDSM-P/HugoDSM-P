@@ -9,5 +9,6 @@ My tech stack is:
 - Jenkins
 - Ansible
 - Terraform
+- Python
 
 Currently doing a project evolving my Final Degree Project and bringing some serious DevOps mentality.
